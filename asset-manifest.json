@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Song-O-Matic2/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Song-O-Matic2/static/js/main.e8d788a9.chunk.js",
+    "main.js.map": "/Song-O-Matic2/static/js/main.e8d788a9.chunk.js.map",
+    "runtime-main.js": "/Song-O-Matic2/static/js/runtime-main.dfc2e6c6.js",
+    "runtime-main.js.map": "/Song-O-Matic2/static/js/runtime-main.dfc2e6c6.js.map",
+    "static/js/2.952fa0c3.chunk.js": "/Song-O-Matic2/static/js/2.952fa0c3.chunk.js",
+    "static/js/2.952fa0c3.chunk.js.map": "/Song-O-Matic2/static/js/2.952fa0c3.chunk.js.map",
+    "static/js/3.64050fc4.chunk.js": "/Song-O-Matic2/static/js/3.64050fc4.chunk.js",
+    "static/js/3.64050fc4.chunk.js.map": "/Song-O-Matic2/static/js/3.64050fc4.chunk.js.map",
+    "index.html": "/Song-O-Matic2/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Song-O-Matic2/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.952fa0c3.chunk.js.LICENSE.txt": "/Song-O-Matic2/static/js/2.952fa0c3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Song-O-Matic2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfc2e6c6.js",
+    "static/js/2.952fa0c3.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e8d788a9.chunk.js"
+  ]
+}
